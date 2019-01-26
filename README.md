@@ -2,6 +2,18 @@
 
 **See: https://en.wikipedia.org/wiki/Comb_sort**
 
+### Install:
+
+```js
+npm i comb-sort
+```
+
+or
+
+```js
+yarn add comb-sort
+```
+
 ### Basic usage:
 
 ```js
