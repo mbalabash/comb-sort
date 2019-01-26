@@ -41,6 +41,11 @@
     "node.js",
     "algorithms"
   ],
+  "homepage": "https://github.com/mbalabash/comb-sort/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbalabash/comb-sort"
+  },
   "author": "mbalabash",
   "license": "MIT"
 }
