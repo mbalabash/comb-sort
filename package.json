@@ -1,6 +1,6 @@
 {
   "name": "comb-sort",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CombSort implementation on javascript.",
   "main": "index.js",
   "scripts": {
